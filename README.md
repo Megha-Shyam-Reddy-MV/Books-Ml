@@ -162,3 +162,21 @@
 🤗[<img alt="Eat That Frog!" title="Eat That Frog!" src="https://m.media-amazon.com/images/I/61ZNAnIrwwL._AC_UF1000,1000_QL80_.jpg" width="150" /> ](https://github.com/ThisIsSakshi/Books/blob/master/Timepass%20%F0%9F%A4%97/Eat%20that%20frog%20by%20brian%20tracy.pdf)<br>
 
 </details>
+
+
+Resources for preparation:
+
+Machine Learning System Design:
+
+This is a good concise repo of various ML design problems: https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md
+A good advice on ML design by Patrick Halina: http://patrickhalina.com/posts/ml-systems-design-interview-guide/#leveling
+A good article by Bharati Priya: https://medium.com/@reachpriyaa/how-to-crack-machine-learning-interviews-at-faang-78a2882a05c5
+A huge collection of blogs on ML systems: https://www.evidentlyai.com/ml-system-design
+Rules of ML by Google : https://developers.google.com/machine-learning/guides/rules-of-ml. This is a very good resource regardless of whether you're applying for Google.
+ML Coding:
+
+Neetcode has a few ML coding exercises: https://neetcode.io/practice
+A good collection of ML coding challenges: https://www.deep-ml.com/?page=1&difficulty=&category=&solved=
+A great article by Abhijit on ML coding problems: https://mecha-mind.medium.com/ds-algo-problems-ml-coding-878b852ea421
+Behavioural:
+Mostly past experiences. Use chatGpt for simulating the interview experience. You can refer to this link, might be helpful. https://www.themuse.com/advice/behavioral-interview-questions-answers-examples
